@@ -1,4 +1,4 @@
-const generateTruth = () => {};
+const generateTruth = () => false;
 export {
     generateTruth
 }
