@@ -1,5 +1,7 @@
 # template-typescript
 
+A Typescript template that provides minimal testing infrastructure.
+
 ## Questions
 
 ### Why do you require the use of Node 18?
@@ -16,3 +18,11 @@ Let's go through each setting under `ts-node`'s `compilerOptions`:
 
 * `"module": "ES6"`: This ensures transpiled code generates ES6-compatible import statements instead of the CommonJS default.
 * `"moduleResolution": "node16"`: This ensures the transpiler uses ES6-compatible module resolution when compiling code instead of the CommonJS default.
+
+### Can I run mocha programmatically?
+
+Yes! Just run the following command:
+
+```
+npx ts-node --esm mocha-entrypoint.ts
+```
