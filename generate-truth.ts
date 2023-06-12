@@ -1,4 +1,1 @@
-const generateTruth = () => true;
-export {
-    generateTruth
-}
+export const generateTruth = () => true;
