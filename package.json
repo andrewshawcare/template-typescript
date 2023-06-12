@@ -1,5 +1,6 @@
 {
     "devDependencies": {
+        "@types/mocha": "10.0.1",
         "assert": "2.0.0"
     }
 }
