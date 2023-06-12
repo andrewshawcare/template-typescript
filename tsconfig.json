@@ -1,7 +1,8 @@
 {
     "ts-node": {
         "compilerOptions": {
-            "moduleResolution": "node16"
+            "moduleResolution": "node16",
+            "module": "node16"
         }
     }
 }
