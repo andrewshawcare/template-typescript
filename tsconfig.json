@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "module": "Node16",
+        "esModuleInterop": true,
+        "outDir": "dist"
+    },
+    "files": ["test/test.ts"]
+}
