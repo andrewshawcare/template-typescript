@@ -1,7 +1,7 @@
 {
     "type": "module",
     "scripts": {
-        "test": "mocha --require 'ts-node/register' test.ts"
+        "test": "mocha test.ts"
     },
     "devDependencies": {
         "@types/mocha": "10.0.1",
