@@ -1,1 +1,1 @@
-export const generateTruth = undefined;
+export const generateTruth = () => {};
