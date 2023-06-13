@@ -1,0 +1,8 @@
+{
+    "ts-node": {
+        "compilerOptions": {
+            "module": "ES6",
+            "moduleResolution": "node16"
+        }
+    }
+}
