@@ -1,4 +1,5 @@
 {
+    "type": "module",
     "scripts": {
         "test": "mocha --require 'ts-node/register' test.ts"
     },
