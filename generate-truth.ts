@@ -1,1 +1,1 @@
-export const generateTruth = () => {};
+export const generateTruth = () => true;
